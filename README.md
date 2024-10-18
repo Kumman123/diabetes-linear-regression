@@ -1,6 +1,6 @@
 # Diabetes Dataset - Linear Regression Model
 
-This project applies a **Linear Regression** model on the **Pima Indians Diabetes Database** to predict diabetes outcomes (whether a person has diabetes) using health-related features. The project is implemented using **Python** and the **scikit-learn** library and evaluates the model using **K-Fold Cross Validation**. Performance metrics such as **Mean Squared Error (MSE)** and **R-squared (R²)** are used to assess the model's effectiveness.
+This project applies a **Linear Regression** model on the **Pima Indians Diabetes Database** to predict diabetes outcomes (whether a person has diabetes) using health-related features. The project is implemented using **Python** and the **scikit-learn** library and also without using library evaluates the model using **K-Fold Cross Validation**. Performance metrics such as **Mean Squared Error (MSE)** and **R-squared (R²)** are used to assess the model's effectiveness.
 
 ## Project Overview
 
